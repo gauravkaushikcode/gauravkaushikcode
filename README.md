@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Gaurav Kaushik a.k.a Gori </h1>
+<h1 align="center"> नमस्ते 🙏 I'm Gaurav Kaushik a.k.a Gori </h1>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=gauravkaushikcode.visitor-badge" alt="visitor badge"/>
 
@@ -7,6 +7,8 @@
 - 💡 I am a self-taught programmer and love to keep learning new technologies.
 - 🌱 I believe in learn, implement, share.
 - ✍ In my free time, I love to play 🎮 video games or outdoor games like 🏐  and 🏏 
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ## ⚙ GitHub Analytics
 <p align="center">
