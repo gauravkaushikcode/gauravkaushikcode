@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <img title="Spring Cloud" src="https://avatars.githubusercontent.com/u/8216893?s=200&v=4" width="50px" style="border: 1px solid white">
 <img title="Liferay" src="https://en.wikipedia.org/wiki/Liferay#/media/File:Liferay-logo-full-color-2x.png" width="50px">
 <img title="React" src="https://logo.letskhabar.com/img?tool=react" width="50px">
-<img title="Vue" src="https://logo.letskhabar.com/img?tool=react" width="50px">
+<img title="Vue" src="https://logo.letskhabar.com/img/?tool=vue-js" alt="vue-js" width="50px">
 </div>
 
 ### Databases and Events Streaming
