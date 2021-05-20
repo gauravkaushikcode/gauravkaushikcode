@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <div>
 <img title="Jenkins" src="https://logo.letskhabar.com/img?tool=jenkins" width="50px">
 <img title="Github Actions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50px">
-<img title="GitLab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/315px-GitLab_Logo.svg.png" width="50px">
+<img title="GitLab" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Liferay-logo-full-color-2x.png" width="50px">
 <img title="Docker" src="https://logo.letskhabar.com/img?tool=docker" width="50px">
 <img title="Kubernetes" src="https://logo.letskhabar.com/img?tool=kubernetes" width="50px">
 <img title="AWS" src="https://logo.letskhabar.com/img/?tool=amazon-web-services" alt="amazon-web-services" width="50px" height="50px" style="border: 1px solid white">
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 ### Other Stuffs
 
 <div>
-<img title="Maven" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Maven_logo.svg/510px-Maven_logo.svg.png" height="20px" width="50px" style="border: 1px solid white">
+<img title="Maven" src="https://maven.apache.org/images/apache-maven-project.png" height="20px" width="50px" style="border: 1px solid white">
 <img title="NPM" src="https://logo.letskhabar.com/img?tool=npm" width="50px" height="30px">
 <img title="OpenAPI" src="https://pbs.twimg.com/profile_images/950508436935995393/L8C2-2bd_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
 <img title="Postman" src="https://pbs.twimg.com/profile_images/1281688071105212417/S2_gScoY_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
