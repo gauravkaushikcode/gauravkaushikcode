@@ -20,10 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I believe in learn, implement, share.
 - ✍ In my free time, I love to play 🎮 video games or outdoor games like 🏐  and 🏏 
 
-⚙️ Github Analytics
-![Github stats]()
 ## ⚙ GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/gauravkaushikcode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravkaushikcode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
