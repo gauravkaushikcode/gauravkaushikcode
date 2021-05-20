@@ -1,5 +1,6 @@
-### Hi 👋, I'm Gaurav Kaushik a.k.a Gori
+<h1 align="center"> Hi 👋, I'm Gaurav Kaushik a.k.a Gori </h1>
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=gauravkaushikcode.visitor-badge" alt="visitor badge"/>
 <!--
 **gauravkaushikcode/gauravkaushikcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
