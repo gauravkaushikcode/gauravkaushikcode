@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Gaurav Kaushik a.k.a Gori
 
 <!--
 **gauravkaushikcode/gauravkaushikcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨🏻‍💻  About Me
+
+- 💡 I am a self-taught programmer and love to keep learning new technologies.
+- 🌱 I believe in learn, implement, share.
+- ✍ In my free time, I love to play 🎮 video games or outdoor games like 🏐  and 🏏 
+
+⚙️ Github Analytics
+![Github stats](https://github-readme-stats.vercel.app/api?username=gauravkaushikcode)
+
