@@ -32,6 +32,7 @@
 ### Frameworks
 
 <div>
+<img title="Kotlin" src="https://logo.letskhabar.com/img/?tool=kotlin" alt="kotlin" width="50px">
 <img title="Spring" src="https://logo.letskhabar.com/img?tool=spring" width="50px">
 <img title="Spring Boot" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" width="50px" style="border: 1px solid white">
 <img title="Spring Cloud" src="https://avatars.githubusercontent.com/u/8216893?s=200&v=4" width="50px" style="border: 1px solid white">
