@@ -23,50 +23,50 @@
 ### Languages
 
 <div>
-<img title="Java" src="https://logo.letskhabar.com/img?tool=java" width="50px"> 
-<img title="Javascript" src="https://logo.letskhabar.com/img?tool=javascript" width="50px">
+<img title="Java" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"> 
+<img title="Javascript" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg">
 <img title="SQL" src="http://www.iconhot.com/icon/png/coded/64/sql-1.png" width="50px" style="border: 2px solid white">
-<img title="Typescript" src="https://logo.letskhabar.com/img?tool=typescript" width="50px">
+<img title="Typescript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 </div>
 
 ### Frameworks
 
 <div>
-<img title="Kotlin" src="https://logo.letskhabar.com/img/?tool=kotlin" alt="kotlin" width="50px">
-<img title="Spring" src="https://logo.letskhabar.com/img?tool=spring" width="50px">
+<img title="Kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+<img title="Spring" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
 <img title="Spring Boot" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" width="50px" style="border: 1px solid white">
 <img title="Spring Cloud" src="https://avatars.githubusercontent.com/u/8216893?s=200&v=4" width="50px" style="border: 1px solid white">
-<img title="Liferay" src="https://en.wikipedia.org/wiki/Liferay#/media/File:Liferay-logo-full-color-2x.png" width="50px">
-<img title="React" src="https://logo.letskhabar.com/img?tool=react" width="50px">
-<img title="Vue" src="https://logo.letskhabar.com/img/?tool=vue-js" alt="vue-js" width="50px">
+<img title="Liferay" src="https://www.vectorlogo.zone/logos/liferay/liferay-ar21.svg">
+<img title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+<img title="Vue" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
 </div>
 
 ### Databases and Events Streaming
 
 <div>
-<img title="MySql" src="https://logo.letskhabar.com/img?tool=mysql" width="50px">
-<img title="ElasticSearch" src="https://logo.letskhabar.com/img?tool=elasticsearch" width="50px">
-<img title="MongoDB" src="https://logo.letskhabar.com/img?tool=mongodb" width="50px">
-<img title="Oracle" src="https://logo.letskhabar.com/img?tool=oracle" width="50px">
-<img title="PostgresSql" src="https://logo.letskhabar.com/img?tool=postgresql" width="50px">
-<img title="RabbitMq" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="80px" height="30px" style="border: 1px solid white">
+<img title="MySql" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img title="ElasticSearch" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg">
+<img title="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+<img title="Oracle" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg">
+<img title="PostgresSql" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+<img title="RabbitMq" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg">
 </div>
 
 ### CI/CD and DevOps
 
 <div>
-<img title="Jenkins" src="https://logo.letskhabar.com/img?tool=jenkins" width="50px">
+<img title="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg">
 <img title="Github Actions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50px">
-<img title="GitLab" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Liferay-logo-full-color-2x.png" width="50px">
-<img title="Docker" src="https://logo.letskhabar.com/img?tool=docker" width="50px">
-<img title="Kubernetes" src="https://logo.letskhabar.com/img?tool=kubernetes" width="50px">
-<img title="AWS" src="https://logo.letskhabar.com/img/?tool=amazon-web-services" alt="amazon-web-services" width="50px" height="50px" style="border: 1px solid white">
+<img title="GitLab" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg">
+<img title="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+<img title="Kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
+<img title="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
 </div>
 
 ### Performance and Monitoring Tools
 
 <div>
-<img title="Zipkin" src="https://pbs.twimg.com/profile_images/2284456438/8leuukuhknbc8fj0eg42_400x400.png" width="50px" height="40px" style="border: 1px solid white">
+<img title="Zipkin" src="https://www.vectorlogo.zone/logos/zipkinio/zipkinio-ar21.svg">
 <img title="Jmeter" src="https://pbs.twimg.com/profile_images/721661302196842496/8mAJQD05_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
 </div>
 
@@ -74,10 +74,10 @@
 ### Other Stuffs
 
 <div>
-<img title="Maven" src="https://maven.apache.org/images/apache-maven-project.png" height="20px" width="50px" style="border: 1px solid white">
-<img title="NPM" src="https://logo.letskhabar.com/img?tool=npm" width="50px" height="30px">
+<img title="Maven" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg">
+<img title="NPM" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg">
 <img title="OpenAPI" src="https://pbs.twimg.com/profile_images/950508436935995393/L8C2-2bd_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
-<img title="Postman" src="https://pbs.twimg.com/profile_images/1281688071105212417/S2_gScoY_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
+<img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg">
 <img title="Sonarqube" src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" width="70px" height="40px" style="border: 1px solid white">
 </div>
 
