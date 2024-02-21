@@ -25,7 +25,7 @@
 <div>
 <img title="Java" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"> 
 <img title="Javascript" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg">
-<img title="SQL" src="http://www.iconhot.com/icon/png/coded/64/sql-1.png" width="50px" style="border: 2px solid white">
+<img title="SQL" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
 <img title="Typescript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 </div>
 
@@ -39,6 +39,7 @@
 <img title="Liferay" src="https://www.vectorlogo.zone/logos/liferay/liferay-ar21.svg">
 <img title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
 <img title="Vue" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
+<img title="GraphQL" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg">
 </div>
 
 ### Databases and Events Streaming
@@ -78,6 +79,6 @@
 <img title="NPM" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg">
 <img title="OpenAPI" src="https://pbs.twimg.com/profile_images/950508436935995393/L8C2-2bd_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
 <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg">
-<img title="Sonarqube" src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" width="70px" height="40px" style="border: 1px solid white">
+<img title="Sonarqube" src="https://assets-eu-01.kc-usercontent.com:443/2f74d567-9b00-0192-a4f8-032a70afc052/5bae1a14-5852-4b1b-8bd7-710ecbd85223/sonarqube.svg">
 </div>
 
