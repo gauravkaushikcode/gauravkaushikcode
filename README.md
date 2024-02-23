@@ -1,7 +1,5 @@
 <h1 align="center"> नमस्ते 🙏 I'm Gaurav Kaushik a.k.a Gori </h1>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=gauravkaushikcode.visitor-badge" alt="visitor badge"/>
-
 ### 👨🏻‍💻 &nbsp;About Me 
 
 - 💡 I am a self-taught programmer and love to keep learning new technologies.
